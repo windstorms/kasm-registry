@@ -51,7 +51,7 @@ export default function New({ workspace }) {
     memory: 2768,
     gpu_count: 0,
     cpu_allocation_method: "Inherit",
-    docker_registry: "https://index.docker.io/v1/",
+    docker_registry: "https://registry-hulk.sankuai.com/",
     categories: [],
     require_gpu: false,
     enabled: true,
