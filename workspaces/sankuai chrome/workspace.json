@@ -1,7 +1,7 @@
 {
   "description": "Chromium sankuai.",
   "docker_registry": "https://registry-hulk.sankuai.com/",
-  "image_src": "sankuai chromium.png",
+  "image_src": "sankuai chrome.png",
   "categories": [
     "Browser"
   ],
